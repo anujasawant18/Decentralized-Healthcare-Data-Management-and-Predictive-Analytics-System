@@ -1,0 +1,2 @@
+# Decentralized-Healthcare-Data-Management-and-Predictive-Analytics-System
+To develop a decentralized healthcare data management system using blockchain for secure storage, NLP for analyzing patient records, ML for disease prediction, and BDA for handling large data. This system enhances data security, improves provider interoperability, and offers predictive insights for better healthcare decisions.
